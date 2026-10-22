@@ -1,0 +1,15 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="20.6156" height="20.6156" viewBox="0 0 20.6156 20.6156" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Notifica&#195;&#167;&#195;&#181;es">
+<rect x="0.286328" y="0.286328" width="20.043" height="20.043" rx="5.44023" stroke="#F2F1ED" stroke-opacity="0.09" stroke-width="0.572656"/>
+<g id="&#195;&#173;cone &#194;&#183; bell" clip-path="url(#clip0_487_6423)">
+<path id="Vector" d="M8.01719 8.78073C8.01719 8.17322 8.25852 7.59059 8.6881 7.16101C9.11767 6.73144 9.7003 6.4901 10.3078 6.4901C10.9153 6.4901 11.498 6.73144 11.9275 7.16101C12.3571 7.59059 12.5984 8.17322 12.5984 8.78073C12.5984 11.4531 13.7438 12.2167 13.7438 12.2167H6.87187C6.87187 12.2167 8.01719 11.4531 8.01719 8.78073Z" stroke-width="0.763542" stroke-linecap="round" stroke-linejoin="round" stroke="#C2C1BE"/>
+<path id="Vector_2" d="M9.6588 13.7438C9.7227 13.86 9.81664 13.9569 9.93081 14.0244C10.045 14.0919 10.1752 14.1276 10.3078 14.1276C10.4404 14.1276 10.5706 14.0919 10.6848 14.0244C10.799 13.9569 10.8929 13.86 10.9568 13.7438" stroke-width="0.763542" stroke-linecap="round" stroke-linejoin="round" stroke="#C2C1BE"/>
+</g>
+<path id="status" d="M15.6049 6.01289C15.6049 6.88263 14.8998 7.5877 14.0301 7.5877C13.1603 7.5877 12.4553 6.88263 12.4553 6.01289C12.4553 5.14315 13.1603 4.43809 14.0301 4.43809C14.8998 4.43809 15.6049 5.14315 15.6049 6.01289Z" fill="#FE5000" stroke-width="0.858984" stroke="#0B0B0C"/>
+</g>
+<defs>
+<clipPath id="clip0_487_6423">
+<rect width="9.1625" height="9.1625" fill="white" transform="translate(5.72656 5.72656)"/>
+</clipPath>
+</defs>
+</svg>

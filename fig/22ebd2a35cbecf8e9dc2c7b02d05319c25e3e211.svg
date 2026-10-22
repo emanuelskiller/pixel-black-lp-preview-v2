@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Notifica&#195;&#167;&#195;&#181;es">
+<rect x="0.5" y="0.5" width="35" height="35" rx="9.5" stroke="#F2F1ED" stroke-opacity="0.09"/>
+<g id="&#195;&#173;cone &#194;&#183; bell">
+<path id="Vector" d="M14 15.3333C14 14.2725 14.4214 13.2551 15.1716 12.5049C15.9217 11.7548 16.9391 11.3333 18 11.3333C19.0609 11.3333 20.0783 11.7548 20.8284 12.5049C21.5786 13.2551 22 14.2725 22 15.3333C22 20 24 21.3333 24 21.3333H12C12 21.3333 14 20 14 15.3333Z" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round" stroke="#C2C1BE"/>
+<path id="Vector_2" d="M16.8667 24C16.9783 24.203 17.1423 24.3722 17.3417 24.4901C17.541 24.608 17.7684 24.6702 18 24.6702C18.2316 24.6702 18.459 24.608 18.6583 24.4901C18.8577 24.3722 19.0217 24.203 19.1333 24" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round" stroke="#C2C1BE"/>
+</g>
+<path id="status" d="M27.25 10.5C27.25 12.0188 26.0188 13.25 24.5 13.25C22.9812 13.25 21.75 12.0188 21.75 10.5C21.75 8.98122 22.9812 7.75 24.5 7.75C26.0188 7.75 27.25 8.98122 27.25 10.5Z" fill="#FE5000" stroke-width="1.5" stroke="#0B0B0C"/>
+</g>
+</svg>

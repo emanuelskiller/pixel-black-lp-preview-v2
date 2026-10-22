@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="255.2" height="255.2" viewBox="0 0 255.2 255.2" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle id="Luz" cx="127.6" cy="127.6" r="127.6" fill="url(#paint0_radial_487_6551)"/>
+<defs>
+<radialGradient id="paint0_radial_487_6551" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(127.6 127.6) scale(127.6)">
+<stop stop-color="#F2F0ED" stop-opacity="0.08"/>
+<stop offset="1" stop-color="#F2F0ED" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

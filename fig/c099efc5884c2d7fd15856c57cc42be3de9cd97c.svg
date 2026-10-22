@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="21" height="12" viewBox="0 0 21 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="chevron" clip-path="url(#clip0_329_4135)">
+<path id="Vector" d="M0 0H3V3H0V0ZM18 0H21V3H18V0ZM3 3H6V6H3V3ZM15 3H18V6H15V3ZM6 6H9V9H6V6ZM12 6H15V9H12V6ZM9 9H12V12H9V9Z" fill="#0B0B0C"/>
+</g>
+<defs>
+<clipPath id="clip0_329_4135">
+<rect width="21" height="12" fill="white"/>
+</clipPath>
+</defs>
+</svg>
